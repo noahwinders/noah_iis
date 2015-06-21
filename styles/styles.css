@@ -1,0 +1,31 @@
+
+/* page font */
+body {
+	font-size: 14px;
+	font-family:Comic Sans MS;
+	background-color: black;
+}
+
+h1 {
+	color:white;
+}
+h2{
+	color:white;
+}
+h3{
+	color:white;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul li {
+	color:white;
+}
+
+p {
+	color: white;
+}
+
